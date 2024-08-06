@@ -1,0 +1,14 @@
+.click-me {
+    background-color: hsl(243, 100%, 0%);
+    color: hsl(0, 0%, 100%)
+}
+
+.click-me-not {
+    background: hsl(59, 100%, 50%);
+}
+
+.click-me,
+.click-me-not {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
